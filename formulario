@@ -1,0 +1,5 @@
+name = input("Intrduce tu nonbre :")
+age = input("Introduce tu edad :")
+
+print("Tu nombre es" , name)
+print("Tu edad es" , age)
